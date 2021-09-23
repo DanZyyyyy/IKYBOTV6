@@ -87,7 +87,7 @@ memberlimit = 1
 ]=====> SETTING DI SINI BEP GANTI YG LU MAU<=====[
 */
 const ownerNumber = ["62895365142921@s.whatsapp.net","6283141727903@s.whatsapp.net"] 
-const botName = 'DanZyy-BIT'
+const botName = 'DanZyy-BOT'
 const ownerName = 'DanZyy'
 const BarBarKey = 'beli bos' // APIKEY BELI DI IKY
 const VhtearKey = 'masa bos geratisan' // beli di 083141727903
