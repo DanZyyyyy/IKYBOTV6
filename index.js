@@ -63,9 +63,9 @@ const speed = require('performance-now')
 
 publik = false
 prefix = '.'
-fake = '*の ＭｅＩｋｙ あ✅*'//GANTI NAMA KAMU BEP
+fake = '*DanZyyGantenK*'//GANTI NAMA KAMU BEP
 numbernye = '0'
-targetprivate = '62895414817057'
+targetprivate = '6285885242906'
 ghoibsu = 'tes'
 myteks = 'okeh nyala'
 blocked = []
@@ -86,9 +86,9 @@ memberlimit = 1
 /*
 ]=====> SETTING DI SINI BEP GANTI YG LU MAU<=====[
 */
-const ownerNumber = ["6283141727903@s.whatsapp.net","6283141727903@s.whatsapp.net"] 
-const botName = 'あＭｅＩｋｙツ'
-const ownerName = 'あＭｅＩｋｙツ'
+const ownerNumber = ["62895365142921@s.whatsapp.net","6283141727903@s.whatsapp.net"] 
+const botName = 'DanZyy-BOT'
+const ownerName = 'DanZyy'
 const BarBarKey = 'beli bos' // APIKEY BELI DI IKY
 const VhtearKey = 'masa bos geratisan' // beli di 083141727903
 const XteamKey = 'gratis mulu ah' // APIKEY XTEAM BELI SENDIRI:V
